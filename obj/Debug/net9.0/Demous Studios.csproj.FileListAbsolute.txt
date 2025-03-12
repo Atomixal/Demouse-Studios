@@ -1,0 +1,100 @@
+/home/atomixal/Desktop/Demous Studios/bin/Debug/net9.0/appsettings.Development.json
+/home/atomixal/Desktop/Demous Studios/bin/Debug/net9.0/appsettings.json
+/home/atomixal/Desktop/Demous Studios/bin/Debug/net9.0/Demous Studios.staticwebassets.runtime.json
+/home/atomixal/Desktop/Demous Studios/bin/Debug/net9.0/Demous Studios.staticwebassets.endpoints.json
+/home/atomixal/Desktop/Demous Studios/bin/Debug/net9.0/Demous Studios
+/home/atomixal/Desktop/Demous Studios/bin/Debug/net9.0/Demous Studios.deps.json
+/home/atomixal/Desktop/Demous Studios/bin/Debug/net9.0/Demous Studios.runtimeconfig.json
+/home/atomixal/Desktop/Demous Studios/bin/Debug/net9.0/Demous Studios.dll
+/home/atomixal/Desktop/Demous Studios/bin/Debug/net9.0/Demous Studios.pdb
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/Demous Studios.GeneratedMSBuildEditorConfig.editorconfig
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/Demous Studios.AssemblyInfoInputs.cache
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/Demous Studios.AssemblyInfo.cs
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/Demous Studios.csproj.CoreCompileInputs.cache
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/Demous Studios.MvcApplicationPartsAssemblyInfo.cache
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/Demous Studios.RazorAssemblyInfo.cache
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/Demous Studios.RazorAssemblyInfo.cs
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/scopedcss/bundle/Demous Studios.styles.css
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/scopedcss/projectbundle/Demous Studios.bundle.scp.css
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/c6efpystpj-b9sayid5wm.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/ywrp1u502m-61n19gt1b8.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/hsdil4dku6-xtxxf3hu2r.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/bveenc2zrm-bqjiyaj88i.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/8xjfe7sk8i-c2jlpeoesf.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/vp7xr5mgdl-erw9l3u2r3.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/9tr78c4uvf-aexeepp0ev.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/ghsji5lmp9-d7shbmvgxk.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/t1wygcm1v2-ausgxo2sd3.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/k06us1vw02-k8d9w2qqmf.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/f7khrqsgbl-cosvhxvwiu.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/vccpm5pj5b-ub07r2b239.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/51p1mieetj-fvhpjtyr6v.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/xccdxq8tx6-b7pk76d08c.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/s5xkq8hwfu-fsbi9cje9m.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/jt1xorf6kb-rzd6atqjts.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/ohp3iv4xgh-ee0r1s7dh0.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/d0z57x2436-dxx9fxp4il.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/82jcpx9xz3-jd9uben2k1.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/i1qmusnu3d-khv3u5hwcm.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/boegfzgoy1-r4e9w2rdcm.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/zvv982j4th-lcd1t2u6c8.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/3hrx3oq74g-c2oey78nd0.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/sp1fz81kbz-tdbxkamptv.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/pw6bvc2xke-j5mq2jizvt.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/z90k46tgf4-06098lyss8.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/jc79zxcxz5-nvvlpmu67g.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/nv97zh0wdg-s35ty4nyc5.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/uxrjh8p9pl-pj5nd1wqec.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/8uuxw39vfi-46ein0sx1k.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/us9aap9zr9-v0zj4ognzu.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/g1dadc5avc-37tfw0ft22.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/g5bhsrcxw3-hrwsygsryq.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/3u597zdnkj-pk9g2wxc8p.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/vlsrpl6y8x-ft3s53vfgj.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/5eaweilgqo-6cfz1n2cew.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/jd8s7ky4hj-6pdc2jztkx.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/bx8qblg8gf-493y06b0oq.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/9vkx1z91u8-iovd86k7lj.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/peoxh6pw3v-vr1egmr9el.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/lpqradlv8y-kbrnm935zg.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/8s64sb8ewh-jj8uyg4cgr.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/037d75jk2g-y7v9cxd14o.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/e63h8om53p-notf2xhcfb.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/04kd1ejt5z-h1s4sie4z3.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/ddkkl1wbze-63fj8s7r0e.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/vj5rhw86br-0j3bgjxly4.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/pvcpat6e4h-47otxtyo56.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/mznk27hwx2-4v8eqarkd7.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/heqv79kp1d-356vix0kms.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/slwu23hz24-83jwlth58m.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/70f1y9tm60-mrlpezrjn3.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/skctl5dozr-lzl9nlhx6b.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/nq2abwtwcc-ag7o75518u.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/t444qjcr73-x0q3zqp4vz.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/jbaqul9lkr-0i3buxo5is.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/u2i9dbbyv5-o1o13a6vjx.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/3wvlaby5lv-ttgo8qnofa.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/q1elg66ub3-2z0ns9nrw6.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/2j4s6ir6tj-muycvpuwrr.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/zxvevydc10-87fc7y1x7t.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/l18lm06eh0-mlv21k5csn.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/44kq3mzbm2-wjz4q43gug.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/ffnmqw3g3a-wjz4q43gug.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/staticwebassets.build.json
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/staticwebassets.development.json
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/staticwebassets/msbuild.Demous Studios.Microsoft.AspNetCore.StaticWebAssets.props
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/staticwebassets/msbuild.Demous Studios.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/staticwebassets/msbuild.build.Demous Studios.props
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.Demous Studios.props
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.Demous Studios.props
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/staticwebassets.pack.json
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/Demous Studios.dll
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/refint/Demous Studios.dll
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/Demous Studios.pdb
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/Demous Studios.genruntimeconfig.cache
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/ref/Demous Studios.dll
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/k789tfkvfq-gozsztm9u5.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/x88foejywi-af47w68omd.gz
+/home/atomixal/Desktop/Demous Studios/obj/Debug/net9.0/compressed/50n1ivwi5p-7jstin0usg.gz
